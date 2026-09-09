@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-09-06 13:33:12">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<application_name>Project Application</application_name>
+<application_scope>x_2056461_projec_0</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Default</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>8a017c7a83034710ce79b9c6feaad338</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:08</sys_created_on>
+<sys_id>9d2348ab838f8b10ce79b9c6feaad35a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:08</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2056461_projec_0_laptop_request_form_reason</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="reason" table="x_2056461_projec_0_laptop_request_form"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice&gt;1&lt;/choice&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Reason&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;reason&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Choice"&gt;choice&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_2056461_projec_0_laptop_request_form&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 09:39:40&lt;/sys_created_on&gt;&lt;sys_id&gt;b07ab83e83434710ce79b9c6feaad309&lt;/sys_id&gt;&lt;sys_name&gt;Reason&lt;/sys_name&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_2056461_projec_0_laptop_request_form_reason&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 09:39:40&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1773357813</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:08</sys_created_on>
+<sys_id>112348ab838f8b10ce79b9c6feaad35e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc9c9890000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:08</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Reason</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>0e8abcbe8443471044e40b60d01b5dfd</update_guid>
+<update_guid_history>0e8abcbe8443471044e40b60d01b5dfd:-1773357813,f58abcbe014347103311b5b5ac9661e9:-1773357813,932d6832520347106dfde2b58e02043f:-438860421,203c64bea7cf07101929ac3b9040a601:1862121391,d83c24be6ccf07104bafb506a7cae2d6:2117619846,960c6c7eefcf0710698c6cea1bc1f973:1862121391,c20c6c7e3fcf071079a84eb4edf83130:2117619846,fb36ac32aecf071053e9c7f18086f634:1862121391,67366c324ccf0710eb1311d4087dc9e2:989213426</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2056461_projec_0_laptop_request_form_status</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="status" table="x_2056461_projec_0_laptop_request_form"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice&gt;1&lt;/choice&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Status&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;status&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Choice"&gt;choice&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_2056461_projec_0_laptop_request_form&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 09:35:04&lt;/sys_created_on&gt;&lt;sys_id&gt;0369743e83434710ce79b9c6feaad3e7&lt;/sys_id&gt;&lt;sys_name&gt;Status&lt;/sys_name&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_2056461_projec_0_laptop_request_form_status&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 09:35:04&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-766166133</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>152348ab838f8b10ce79b9c6feaad35f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc593710000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Status</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b679383e204347104a94c2a1019c520b</update_guid>
+<update_guid_history>b679383e204347104a94c2a1019c520b:-766166133,e279f43e0f434710ff978fe4328ceff4:-766166133,1eee683699034710d193faec9f57411c:-1553586095,1d3c64bec3cf07103d9a7944985176c2:-1202266211,453c64be93cf0710ee60b79422ea7898:736169318,070cac7e6ccf0710d0e82afb91f6b873:-1202266211,7e0cac7ef5cf07100c21071a11661948:736169318,b336ac328bcf0710b603b3c5688efe5c:-1202266211,6b366c3213cf0710b912484cd58083e5:1046915578</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_choice_x_2056461_projec_0_laptop_request_form_reason</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="reason" table="x_2056461_projec_0_laptop_request_form" version="3"><sys_choice_set action="INSERT_OR_UPDATE"><element>reason</element><name>x_2056461_projec_0_laptop_request_form</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:40:43</sys_created_on><sys_id>91caf4be83434710ce79b9c6feaad3f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>reason</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_choice_x_2056461_projec_0_laptop_request_form_reason</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:40:43</sys_updated_on></sys_choice_set><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>reason</element><hint/><inactive>false</inactive><label>Software Development</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><sequence>100</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:40:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4ebab4fe83434710ce79b9c6feaad395</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:40:55</sys_updated_on><value>software development</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>reason</element><hint/><inactive>false</inactive><label>Personal Use</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><sequence>200</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:41:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d9cab4be83434710ce79b9c6feaad38a</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:41:14</sys_updated_on><value>personal use</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>reason</element><hint/><inactive>false</inactive><label>Other</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><sequence>300</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:41:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fadaf8fe83434710ce79b9c6feaad32b</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:41:34</sys_updated_on><value>other</value></sys_choice></sys_choice></record_update>]]></payload>
+<payload_hash>-1398788993</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:08</sys_created_on>
+<sys_id>192348ab838f8b10ce79b9c6feaad35b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bcb83360000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:08</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Reason</target_name>
+<type>Choice list</type>
+<update_domain>global</update_domain>
+<update_guid>b5fafcfef84347102d86f698372ac759</update_guid>
+<update_guid_history>b5fafcfef84347102d86f698372ac759:-1398788993,c5fabcfe9a4347105b732174f0e1bf4c:-1498373895,2bea7cfe96434710020a778d030341bb:-1138812518,5eea747ee84347101453d2f5f5d348a7:-234779466,70eaf8fe46434710dac8e0578a6ecf42:1949877251,33daf8fe2b434710c5033e7f49b9e231:-510404902,3eda3cbe9f034710310b697ae96b4898:733274070,48da78fe09434710b29d33a3df758e67:484685498,76ca78fee2434710d4d87e8bbec85d5f:-1444526472,19ca38fe83434710e87f2a35064bcca3:-1083309365,6dee28363503471055e9d98978905e2a:-1131822264,1dee28369b0347105af76e9a13aaec0d:483113621,99eee43624034710df555791ef80edf0:-1926927447,f336ac320bcf0710451356b5da089a3f:-1935399302</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2056461_projec_0_laptop_request_form_employee_email</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="employee_email" table="x_2056461_projec_0_laptop_request_form"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Employee Email</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>employee_email</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Email">email</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_2056461_projec_0_laptop_request_form</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 10:49:50</sys_created_on><sys_id>699ac5b283074710ce79b9c6feaad3b1</sys_id><sys_name>Employee Email</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_dictionary_x_2056461_projec_0_laptop_request_form_employee_email</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 10:49:50</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1086067854</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:08</sys_created_on>
+<sys_id>1d2348ab838f8b10ce79b9c6feaad35c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06c0a03bc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:08</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Employee Email</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b19ac5b2d70747102e03506ab2b370c3</update_guid>
+<update_guid_history>b19ac5b2d70747102e03506ab2b370c3:-1086067854,097ac1b2990747104702999273d4824a:-130691897,acb301f24cc347102354359a01b555ae:-1205011656,fc80053eee8347109df9521a1ed72612:1128383558,052e7cb6ee83471023bd09a53e4b71b0:-558861471,174dbc36948347107505ff3dee715e8d:1128383558,6f0d2432830347109c4a3389cca2ee81:-1644197832,ff2c24be4dcf0710e75814bfc1064772:-646393748,b72ce0be88cf07101122b39ad011c6de:-2110153009,28c96c3adecf07107eaead5f0f8250a1:-646393748,22f76c3693cf07107c5719e23cff922a:-1644197832,5007a8b2c7cf0710e1b0448eebef1687:-646393748</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_hub_flow_aeba99b683874710ce79b9c6feaad357</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_hub_flow"&gt;&lt;sys_hub_flow action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;acls/&gt;&lt;active&gt;false&lt;/active&gt;&lt;allow_high_security_roles&gt;false&lt;/allow_high_security_roles&gt;&lt;annotation/&gt;&lt;attributes&gt;browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=711000,viewActivatedIn=naturalLanguage&lt;/attributes&gt;&lt;authored_on_release_version&gt;29000&lt;/authored_on_release_version&gt;&lt;callable_by_client_api&gt;false&lt;/callable_by_client_api&gt;&lt;category/&gt;&lt;copied_from/&gt;&lt;copied_from_name/&gt;&lt;description/&gt;&lt;display_name_after_preview/&gt;&lt;flow_priority&gt;MEDIUM&lt;/flow_priority&gt;&lt;generation_source/&gt;&lt;internal_name&gt;laptop_request_approval&lt;/internal_name&gt;&lt;label_cache&gt;[{"name":"Created_1.current","label":"Trigger - Record Created➛Laptop Request Form Record","reference":"x_2056461_projec_0_laptop_request_form","reference_display":"Laptop Request Form","type":"reference","base_type":"reference","usedInstances":{"3122ff3f-dd06-4fef-aa88-9075487fe281":["record"]},"attributes":{}},{"name":"Created_1.current.manager","label":"Trigger - Record Created➛Laptop Request Form Record➛Manager","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_2056461_projec_0_laptop_request_form","column_name":"manager","usedInstances":{"3122ff3f-dd06-4fef-aa88-9075487fe281":["approval_conditions"]}}]&lt;/label_cache&gt;&lt;master_snapshot&gt;dc7dd53e83874710ce79b9c6feaad3ce&lt;/master_snapshot&gt;&lt;master_snapshot_digest/&gt;&lt;name&gt;Laptop Request Approval&lt;/name&gt;&lt;natlang/&gt;&lt;outputs/&gt;&lt;pre_compiled&gt;false&lt;/pre_compiled&gt;&lt;remote_trigger_id&gt;7c7d193e83874710ce79b9c6feaad352&lt;/remote_trigger_id&gt;&lt;run_as&gt;user&lt;/run_as&gt;&lt;run_with_roles/&gt;&lt;sc_callable&gt;false&lt;/sc_callable&gt;&lt;show_draft_actions&gt;false&lt;/show_draft_actions&gt;&lt;show_triggered_flows&gt;false&lt;/show_triggered_flows&gt;&lt;status&gt;published&lt;/status&gt;&lt;substatus/&gt;&lt;sys_class_name&gt;sys_hub_flow&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:00:21&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;aeba99b683874710ce79b9c6feaad357&lt;/sys_id&gt;&lt;sys_mod_count&gt;10&lt;/sys_mod_count&gt;&lt;sys_name&gt;Laptop Request Approval&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_hub_flow_aeba99b683874710ce79b9c6feaad357&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:16:09&lt;/sys_updated_on&gt;&lt;type&gt;flow&lt;/type&gt;&lt;updation_source/&gt;&lt;version&gt;2&lt;/version&gt;&lt;version_record&gt;617d193e83874710ce79b9c6feaad3c6&lt;/version_record&gt;&lt;/sys_hub_flow&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=aeba99b683874710ce79b9c6feaad357"/&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=aeba99b683874710ce79b9c6feaad357"/&gt;&lt;sys_flow_record_trigger action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;condition table="x_2056461_projec_0_laptop_request_form"&gt;^EQ&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;name/&gt;&lt;on_delete&gt;false&lt;/on_delete&gt;&lt;on_insert&gt;true&lt;/on_insert&gt;&lt;on_update&gt;false&lt;/on_update&gt;&lt;published_version/&gt;&lt;run_flow_in&gt;background&lt;/run_flow_in&gt;&lt;run_on_extended&gt;false&lt;/run_on_extended&gt;&lt;run_when_setting&gt;both&lt;/run_when_setting&gt;&lt;run_when_user_list/&gt;&lt;run_when_user_setting&gt;any&lt;/run_when_user_setting&gt;&lt;sys_class_name&gt;sys_flow_record_trigger&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:12:15&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;7c7d193e83874710ce79b9c6feaad352&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_overrides/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:15&lt;/sys_updated_on&gt;&lt;table&gt;x_2056461_projec_0_laptop_request_form&lt;/table&gt;&lt;trigger_definition/&gt;&lt;/sys_flow_record_trigger&gt;&lt;sys_trigger_runner_mapping action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;data&gt;{"run_flow_in":"background","run_when_user_list":[],"run_when_setting":"both","run_when_user_setting":"any","run_on_extended":"false"}&lt;/data&gt;&lt;identifier&gt;aeba99b683874710ce79b9c6feaad357&lt;/identifier&gt;&lt;identifier_type&gt;flow&lt;/identifier_type&gt;&lt;runner&gt;FDTriggerRunner&lt;/runner&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:12:15&lt;/sys_created_on&gt;&lt;sys_id&gt;857d193e83874710ce79b9c6feaad354&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:15&lt;/sys_updated_on&gt;&lt;trigger display_value=""&gt;7c7d193e83874710ce79b9c6feaad352&lt;/trigger&gt;&lt;/sys_trigger_runner_mapping&gt;&lt;sys_trigger_runner_mapping action="delete_multiple" query="identifier=aeba99b683874710ce79b9c6feaad357^sys_idNOT IN857d193e83874710ce79b9c6feaad354"/&gt;&lt;sys_hub_flow_stage action="delete_multiple" query="flow=aeba99b683874710ce79b9c6feaad357"/&gt;&lt;sys_flow_cat_variable_model action="delete_multiple" query="id=aeba99b683874710ce79b9c6feaad357^sys_idNOT INe2ba99b683874710ce79b9c6feaad35c"/&gt;&lt;sys_flow_cat_variable_model action="INSERT_OR_UPDATE"&gt;&lt;id&gt;aeba99b683874710ce79b9c6feaad357&lt;/id&gt;&lt;name&gt;Laptop Request Approval&lt;/name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:00:21&lt;/sys_created_on&gt;&lt;sys_id&gt;e2ba99b683874710ce79b9c6feaad35c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:00:21&lt;/sys_updated_on&gt;&lt;/sys_flow_cat_variable_model&gt;&lt;sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=e2ba99b683874710ce79b9c6feaad35c"/&gt;&lt;sys_hub_flow_input action="delete_multiple" query="model=aeba99b683874710ce79b9c6feaad357^sys_idNOT IN4acaddb683874710ce79b9c6feaad361,f1ca9db683874710ce79b9c6feaad3d5"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;table_name&lt;/internal_type&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="Laptop Request Approval"&gt;aeba99b683874710ce79b9c6feaad357&lt;/model&gt;&lt;model_id&gt;aeba99b683874710ce79b9c6feaad357&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_aeba99b683874710ce79b9c6feaad357&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;101&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:00:35&lt;/sys_created_on&gt;&lt;sys_id&gt;4acaddb683874710ce79b9c6feaad361&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:11&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=4acaddb683874710ce79b9c6feaad361"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent&gt;table_name&lt;/dependent&gt;&lt;dependent_on_field&gt;table_name&lt;/dependent_on_field&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;current&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;document_id&lt;/internal_type&gt;&lt;label&gt;Record&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="Laptop Request Approval"&gt;aeba99b683874710ce79b9c6feaad357&lt;/model&gt;&lt;model_id&gt;aeba99b683874710ce79b9c6feaad357&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_aeba99b683874710ce79b9c6feaad357&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:00:34&lt;/sys_created_on&gt;&lt;sys_id&gt;f1ca9db683874710ce79b9c6feaad3d5&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:11&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;true&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=f1ca9db683874710ce79b9c6feaad3d5"/&gt;&lt;sys_hub_flow_output action="delete_multiple" query="model=aeba99b683874710ce79b9c6feaad357"/&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=aeba99b683874710ce79b9c6feaad357"/&gt;&lt;sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=aeba99b683874710ce79b9c6feaad357^sys_idNOT INa1ca5db683874710ce79b9c6feaad3c6"/&gt;&lt;sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;comment/&gt;&lt;display_text/&gt;&lt;flow display_value="Laptop Request Approval"&gt;aeba99b683874710ce79b9c6feaad357&lt;/flow&gt;&lt;generation_source/&gt;&lt;name&gt;Created&lt;/name&gt;&lt;published_version/&gt;&lt;remote_sys_id/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:00:33&lt;/sys_created_on&gt;&lt;sys_id&gt;a1ca5db683874710ce79b9c6feaad3c6&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:11&lt;/sys_updated_on&gt;&lt;trigger_definition display_value="Created"&gt;798916a0c31322002841b63b12d3ae7c&lt;/trigger_definition&gt;&lt;trigger_inputs&gt;H4sIAAAAAAAA/9VYW2/iOBT+K1aediRGyoVL6dsMtNpK3VZLmd2Hqhs5iQ3ZNTaTOGmZUf/7HucCIRfKtUNfkLCNz3c+f/7OMY8/NYYdwrRLbYwdRrSW5nNJAo7ZeDEnMCzVsM3xTM3NMPewFMFCu5RBRFoaDcRsTGZzhiUsppiFMCgCjwTapdHSYswi8rAIbzzYCX6fbJPtqWXT8P3FNvVOt9017Hkg/iWurdsMz6WY2wH5HpFQ2lQEM/iB54cQavFX9rvbZBEapYvQdbrInfrMCwjXLh+fWtocBxBUKkA/S1MSMrTX0kd3aZ6+wutSF/dNoruWYZmmrpsXbcPpWo5hehYmug7rytyV8pM1FK7IIS+ScI94S94q7AYEe/ecLZYrpnA4KZMz/BL6P2D3C12towSyckk6t/xqZ3ylw+5U+C65n0tf8HQkxZlOChbN+F2KXzFNKI6YzJmGkSiE/chcQVYgMkT0YSqeR3nAa58n2WWTTLiYLb9hKQPfiSQJ1VFQn8Gh2Ck3oYiCBP3oanA/Gtp/fxkPfr8a2aOrh/HoZjC+GmqvSV7290jtmCLMsNhpOq9LeVz7hKkD5NHMATQtLXQDfy6/uNKPc5W+tlbKHwju+QkrFfW7+VS4rv48+03y1/XGC+AWIuaX4J+rP6sKTwf3U/SgiD1RdLeLsUdwg6IdWlB0kZMa0LKGnmLem7SdjWwj7rau/yJ5Z/a2r7pnwiNsuNpOg8nJBPTu83kkFVvPmMvQlsLGnmcXeFRLAdNbck9zq2r+bbUHEYct7OUJVTWfELlk9NYPIYFHuLEPymeTY/gM9kVz8pIIsJzeZhFGEUcCThY+kBsFwJ1EuSXSmxmeZJTDhoy4sqAS+i0sfvvDD0OfTwpJNGFIOKtAWEYH8aE84RRKeCCWp2PaQfVI4hK3JVvY3xPys038wDAodQg19Z5yA0O3HGroPb2DqWfpumsW/KAKsRG7LMnoJL6wmyuEiYDZFvosE5+B14s3aCtxxevKzElQwsnMZ3AcaMaRoJkKWslErZ1cdCnWdHi4rtlNqR25t8BejOEX3rZmqhZs4ZqUiWcw8MMd08Huf5NARNwre5YKgXyOVivQbxmdn07nntBdk8141leck2+uDiWXNeaLkzmmRQ2nT9pEB6O0wCOdTr/vuNiktNftEdMoOeYKXC3iD+GUb0gyrtN0k2vWyimuU+EOfnkAwIp37gzwcNfM5Frrmencx3DH5ynhNkANbKb8r2KSE+Z7JJ87rgdUQserW38sH7jNklLR6UXf7Ri9ntuDNxS4AG0TBxtts4P7va510Sm5QAXeJuiyhq13eVmFizAB0uAQ39Kp8/oT4ZRSDomUqnAdXO05tMfJFjiNWSix6pRQ4jsiQHeCf75ZrUMPBCpn8to+UdnfBpQ6dvSuqBwhp5U2BJB8hfE1JKq5beDs7F53JUXF67me6HVH2hedPrXqXYr261xqBbEZ/Nl3LVveqrjxfta1L9veirj2cjX2G3sIuySeYiOyoVM6FinG0UkxT0eKdXB3lt/QxiftPmA/UBVMWpMjlkIFgdiCFh1+KBBMIIiJfIqyf0qJh5wFklMCDDPoyiE+UmAOtfYNlaeKbKnvX4orfQVUCiIMo6xhO79aV9LNe7zNidfDnY7V0JX3y2/zOphvZHH2lW/nmxTXXcyN5W+3fct71hbAgpDXdbJlaTtq1vX17bCsayvcW1kfXrs2/bNQg+JMq9LT/xCSc6GkIAAA&lt;/trigger_inputs&gt;&lt;trigger_outputs/&gt;&lt;trigger_type&gt;record_create&lt;/trigger_type&gt;&lt;updation_source/&gt;&lt;/sys_hub_trigger_instance_v2&gt;&lt;sys_hub_action_instance_v2 action="delete_multiple" query="flow=aeba99b683874710ce79b9c6feaad357^sys_idNOT IN1e0b5db683874710ce79b9c6feaad34d"/&gt;&lt;sys_hub_action_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;action_type display_value="Ask For Approval"&gt;f8f2e9920b10030085c083eb37673abd&lt;/action_type&gt;&lt;action_type_parent display_value="Ask For Approval"&gt;bae0a1120b10030085c083eb37673a92&lt;/action_type_parent&gt;&lt;attributes/&gt;&lt;comment/&gt;&lt;compiled_snapshot/&gt;&lt;display_text/&gt;&lt;flow display_value="Laptop Request Approval"&gt;aeba99b683874710ce79b9c6feaad357&lt;/flow&gt;&lt;generation_source/&gt;&lt;order&gt;1&lt;/order&gt;&lt;parent_ui_id/&gt;&lt;sys_class_name&gt;sys_hub_action_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:01:41&lt;/sys_created_on&gt;&lt;sys_id&gt;1e0b5db683874710ce79b9c6feaad34d&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:12&lt;/sys_updated_on&gt;&lt;ui_id&gt;3122ff3f-dd06-4fef-aa88-9075487fe281&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+1Y30/jOBD+V6o8l57TNCHtG1pUidPerQQsLxRFrjMpXrlO1olZelX/9x3HThsKW7ps9zjQvUTyeH58M/ON4+R66fHUG3nHcdaH4bBPpj4hASFxyEgcwDQ4jo4DyojX9SSdA2oqYLlKcX1HhTaC5fKDAlpBmvg9ppUCWa1WuJ/yshB0ceXUUMJuuUhx3xtd33S9gir0WIHyRsutrWpRQCLoFAQanuZMz9Fp5+wUfeyLtrE+b+BuwzcxcJ067wk3QtwyeEjXg/sKZAoYLaOihK43pzKlVa4W3qhSGgWYdPpJisVa45bLyiY6p/cl/wfdB32jlwFmxlwR1svEFaipTc4ZfCoqnksrqehUNIXLhZ7Lv20GprSQUS2qVml1if6gMJANCIswu7jNv5038cZc1sk5tCJnVKxXtKoUn+oKStMNEFDXZE6LgstZUqj8jtfGCGXemwlc9DKRf8OYJZ/JHmUGdw8LRHtjlJ/W4iuquEniL3SDxqs6+eSrNnFtGg5wUudsE0atkileVCfo8w4cwlXXEXXKdraebTpt3W14ep/0SRgNIt+k8wVYQpBiRZUXiYKvGsoqyXI1f0zcj7VS59wqdcZW6WVcvjSYOnUju3vn88D4cX6OyPUykda147G/m8dOsg+RY/I6RHaI3hiTnyMxDKIgxMdxFhC/75MYojhmQ0JZHEXhINg0GeMhYiqQo7RE3xs6b9HyxCk+y9+W4ss4fIH1lbOGv3uk0hg2kRGKy+WHSTpOl00ox+f+wfjsR2+U0JpfYm0+bvfi9/C868K1W6H5Z8mRSmem+1F/Gg1JnB6lGZkeDeIgPKIMyBFEfghhGrHQD355Woi/64hM4yeIlHEQ7TvKAa8jY+P6wRG+B75HIzB2AH8E3A1Avdw61A83BDEhrzQF7/d+wnaSAVpH+5dcK/lvc3UPeI3xnxbfNlW3Ye9gavA/U//DTB2EO6kAT5xOLJcpN/jKFl/tmQbliVx8vn7iY7CHLaczUKvVzWNq/5zxy6Zgc+/QAspmEvZIf/0N6ex2lsPNweYu44zcLAwO9Un5eqPwPu/ibCcPsuGm76nGciA92/8+Jp4FOfFGE0/mEiZed+IZrcQQohajBoJbb9Sy5cqutaLO3G8tN7YpXZS1ZsluIUVK1dIHEstzJz/kj5cLF6Bziqj/uOStt8jzNVv/vdHW/skyNtf8JhNbN95+h4QHe4cM3ujYaJ40h4o52vGg+G33/ZfO0s13XyWHmEcUAAA=&lt;/values&gt;&lt;/sys_hub_action_instance_v2&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=1e0b5db683874710ce79b9c6feaad34d"/&gt;&lt;sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=aeba99b683874710ce79b9c6feaad357"/&gt;&lt;sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=aeba99b683874710ce79b9c6feaad357"/&gt;&lt;sys_hub_pill_compound action="delete_multiple" query="attached_to=aeba99b683874710ce79b9c6feaad357"/&gt;&lt;sys_hub_flow_variable action="delete_multiple" query="model=aeba99b683874710ce79b9c6feaad357"/&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;current&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Record&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_aeba99b683874710ce79b9c6feaad357&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:00:35&lt;/sys_created_on&gt;&lt;sys_id&gt;06caddb683874710ce79b9c6feaad35c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:00:35&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_aeba99b683874710ce79b9c6feaad357&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:00:36&lt;/sys_created_on&gt;&lt;sys_id&gt;decaddb683874710ce79b9c6feaad374&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:00:36&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_aeba99b683874710ce79b9c6feaad357"/&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_aeba99b683874710ce79b9c6feaad357"/&gt;&lt;sys_hub_flow_snapshot action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;acls/&gt;&lt;active&gt;true&lt;/active&gt;&lt;allow_high_security_roles&gt;false&lt;/allow_high_security_roles&gt;&lt;annotation/&gt;&lt;attributes&gt;browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,viewActivatedIn=naturalLanguage&lt;/attributes&gt;&lt;authored_on_release_version&gt;29000&lt;/authored_on_release_version&gt;&lt;callable_by_client_api&gt;false&lt;/callable_by_client_api&gt;&lt;category/&gt;&lt;copied_from/&gt;&lt;copied_from_name/&gt;&lt;description/&gt;&lt;flow_priority&gt;MEDIUM&lt;/flow_priority&gt;&lt;internal_name&gt;laptop_request_approval&lt;/internal_name&gt;&lt;label_cache&gt;[{"name":"Created_1.current","label":"Trigger - Record Created➛Laptop Request Form Record","reference":"x_2056461_projec_0_laptop_request_form","reference_display":"Laptop Request Form","type":"reference","base_type":"reference","usedInstances":{"3122ff3f-dd06-4fef-aa88-9075487fe281":["record"]},"attributes":{}},{"name":"Created_1.current.manager","label":"Trigger - Record Created➛Laptop Request Form Record➛Manager","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_2056461_projec_0_laptop_request_form","column_name":"manager","usedInstances":{"3122ff3f-dd06-4fef-aa88-9075487fe281":["approval_conditions"]}}]&lt;/label_cache&gt;&lt;master&gt;true&lt;/master&gt;&lt;name&gt;Laptop Request Approval&lt;/name&gt;&lt;natlang/&gt;&lt;outputs/&gt;&lt;parent_flow display_value="Laptop Request Approval"&gt;aeba99b683874710ce79b9c6feaad357&lt;/parent_flow&gt;&lt;remote_trigger_id/&gt;&lt;run_as&gt;user&lt;/run_as&gt;&lt;run_with_roles/&gt;&lt;sc_callable&gt;false&lt;/sc_callable&gt;&lt;status&gt;published&lt;/status&gt;&lt;sys_class_name&gt;sys_hub_flow_snapshot&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:12:13&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;dc7dd53e83874710ce79b9c6feaad3ce&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:13&lt;/sys_updated_on&gt;&lt;type&gt;flow&lt;/type&gt;&lt;version&gt;2&lt;/version&gt;&lt;/sys_hub_flow_snapshot&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=dc7dd53e83874710ce79b9c6feaad3ce"/&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=dc7dd53e83874710ce79b9c6feaad3ce"/&gt;&lt;sys_hub_flow_stage action="delete_multiple" query="flow=dc7dd53e83874710ce79b9c6feaad3ce"/&gt;&lt;sys_flow_cat_variable_model action="delete_multiple" query="id=dc7dd53e83874710ce79b9c6feaad3ce^sys_idNOT IN107dd53e83874710ce79b9c6feaad3d1"/&gt;&lt;sys_flow_cat_variable_model action="INSERT_OR_UPDATE"&gt;&lt;id&gt;dc7dd53e83874710ce79b9c6feaad3ce&lt;/id&gt;&lt;name&gt;Laptop Request Approval&lt;/name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:12:13&lt;/sys_created_on&gt;&lt;sys_id&gt;107dd53e83874710ce79b9c6feaad3d1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:13&lt;/sys_updated_on&gt;&lt;/sys_flow_cat_variable_model&gt;&lt;sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=107dd53e83874710ce79b9c6feaad3d1"/&gt;&lt;sys_hub_flow_input action="delete_multiple" query="model=dc7dd53e83874710ce79b9c6feaad3ce^sys_idNOT IN987dd53e83874710ce79b9c6feaad3d2,a87dd53e83874710ce79b9c6feaad3e3"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent&gt;table_name&lt;/dependent&gt;&lt;dependent_on_field&gt;table_name&lt;/dependent_on_field&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;current&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;document_id&lt;/internal_type&gt;&lt;label&gt;Record&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="Laptop Request Approval"&gt;dc7dd53e83874710ce79b9c6feaad3ce&lt;/model&gt;&lt;model_id&gt;dc7dd53e83874710ce79b9c6feaad3ce&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow_snapshot&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_dc7dd53e83874710ce79b9c6feaad3ce&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:12:13&lt;/sys_created_on&gt;&lt;sys_id&gt;987dd53e83874710ce79b9c6feaad3d2&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:13&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;true&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=987dd53e83874710ce79b9c6feaad3d2"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;table_name&lt;/internal_type&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="Laptop Request Approval"&gt;dc7dd53e83874710ce79b9c6feaad3ce&lt;/model&gt;&lt;model_id&gt;dc7dd53e83874710ce79b9c6feaad3ce&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow_snapshot&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_dc7dd53e83874710ce79b9c6feaad3ce&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;101&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:12:13&lt;/sys_created_on&gt;&lt;sys_id&gt;a87dd53e83874710ce79b9c6feaad3e3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:13&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=a87dd53e83874710ce79b9c6feaad3e3"/&gt;&lt;sys_hub_flow_output action="delete_multiple" query="model=dc7dd53e83874710ce79b9c6feaad3ce"/&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=dc7dd53e83874710ce79b9c6feaad3ce"/&gt;&lt;sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=dc7dd53e83874710ce79b9c6feaad3ce^sys_idNOT INf07d193e83874710ce79b9c6feaad32b"/&gt;&lt;sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;comment/&gt;&lt;display_text/&gt;&lt;flow display_value="Laptop Request Approval"&gt;dc7dd53e83874710ce79b9c6feaad3ce&lt;/flow&gt;&lt;generation_source/&gt;&lt;name&gt;Created&lt;/name&gt;&lt;published_version/&gt;&lt;remote_sys_id/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:12:14&lt;/sys_created_on&gt;&lt;sys_id&gt;f07d193e83874710ce79b9c6feaad32b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:14&lt;/sys_updated_on&gt;&lt;trigger_definition display_value="Created"&gt;798916a0c31322002841b63b12d3ae7c&lt;/trigger_definition&gt;&lt;trigger_inputs&gt;H4sIAAAAAAAA/9VYW2/iOBT+K1aediRGyoVL6dsMtNpK3VZLmd2Hqhs5iQ3ZNTaTOGmZUf/7HucCIRfKtUNfkLCNz3c+f/7OMY8/NYYdwrRLbYwdRrSW5nNJAo7ZeDEnMCzVsM3xTM3NMPewFMFCu5RBRFoaDcRsTGZzhiUsppiFMCgCjwTapdHSYswi8rAIbzzYCX6fbJPtqWXT8P3FNvVOt9017Hkg/iWurdsMz6WY2wH5HpFQ2lQEM/iB54cQavFX9rvbZBEapYvQdbrInfrMCwjXLh+fWtocBxBUKkA/S1MSMrTX0kd3aZ6+wutSF/dNoruWYZmmrpsXbcPpWo5hehYmug7rytyV8pM1FK7IIS+ScI94S94q7AYEe/ecLZYrpnA4KZMz/BL6P2D3C12towSyckk6t/xqZ3ylw+5U+C65n0tf8HQkxZlOChbN+F2KXzFNKI6YzJmGkSiE/chcQVYgMkT0YSqeR3nAa58n2WWTTLiYLb9hKQPfiSQJ1VFQn8Gh2Ck3oYiCBP3oanA/Gtp/fxkPfr8a2aOrh/HoZjC+GmqvSV7290jtmCLMsNhpOq9LeVz7hKkD5NHMATQtLXQDfy6/uNKPc5W+tlbKHwju+QkrFfW7+VS4rv48+03y1/XGC+AWIuaX4J+rP6sKTwf3U/SgiD1RdLeLsUdwg6IdWlB0kZMa0LKGnmLem7SdjWwj7rau/yJ5Z/a2r7pnwiNsuNpOg8nJBPTu83kkFVvPmMvQlsLGnmcXeFRLAdNbck9zq2r+bbUHEYct7OUJVTWfELlk9NYPIYFHuLEPymeTY/gM9kVz8pIIsJzeZhFGEUcCThY+kBsFwJ1EuSXSmxmeZJTDhoy4sqAS+i0sfvvDD0OfTwpJNGFIOKtAWEYH8aE84RRKeCCWp2PaQfVI4hK3JVvY3xPys038wDAodQg19Z5yA0O3HGroPb2DqWfpumsW/KAKsRG7LMnoJL6wmyuEiYDZFvosE5+B14s3aCtxxevKzElQwsnMZ3AcaMaRoJkKWslErZ1cdCnWdHi4rtlNqR25t8BejOEX3rZmqhZs4ZqUiWcw8MMd08Huf5NARNwre5YKgXyOVivQbxmdn07nntBdk8141leck2+uDiWXNeaLkzmmRQ2nT9pEB6O0wCOdTr/vuNiktNftEdMoOeYKXC3iD+GUb0gyrtN0k2vWyimuU+EOfnkAwIp37gzwcNfM5Frrmencx3DH5ynhNkANbKb8r2KSE+Z7JJ87rgdUQserW38sH7jNklLR6UXf7Ri9ntuDNxS4AG0TBxtts4P7va510Sm5QAXeJuiyhq13eVmFizAB0uAQ39Kp8/oT4ZRSDomUqnAdXO05tMfJFjiNWSix6pRQ4jsiQHeCf75ZrUMPBCpn8to+UdnfBpQ6dvSuqBwhp5U2BJB8hfE1JKq5beDs7F53JUXF67me6HVH2hedPrXqXYr261xqBbEZ/Nl3LVveqrjxfta1L9veirj2cjX2G3sIuySeYiOyoVM6FinG0UkxT0eKdXB3lt/QxiftPmA/UBVMWpMjlkIFgdiCFh1+KBBMIIiJfIqyf0qJh5wFklMCDDPoyiE+UmAOtfYNlaeKbKnvX4orfQVUCiIMo6xhO79aV9LNe7zNidfDnY7V0JX3y2/zOphvZHH2lW/nmxTXXcyN5W+3fct71hbAgpDXdbJlaTtq1vX17bCsayvcW1kfXrs2/bNQg+JMq9LT/xCSc6GkIAAA&lt;/trigger_inputs&gt;&lt;trigger_outputs/&gt;&lt;trigger_type&gt;record_create&lt;/trigger_type&gt;&lt;updation_source/&gt;&lt;/sys_hub_trigger_instance_v2&gt;&lt;sys_hub_action_instance_v2 action="delete_multiple" query="flow=dc7dd53e83874710ce79b9c6feaad3ce^sys_idNOT INac7d193e83874710ce79b9c6feaad328"/&gt;&lt;sys_hub_action_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;action_type display_value="Ask For Approval"&gt;f8f2e9920b10030085c083eb37673abd&lt;/action_type&gt;&lt;action_type_parent display_value="Ask For Approval"&gt;bae0a1120b10030085c083eb37673a92&lt;/action_type_parent&gt;&lt;attributes/&gt;&lt;comment/&gt;&lt;compiled_snapshot&gt;f8f2e9920b10030085c083eb37673abd&lt;/compiled_snapshot&gt;&lt;display_text/&gt;&lt;flow display_value="Laptop Request Approval"&gt;dc7dd53e83874710ce79b9c6feaad3ce&lt;/flow&gt;&lt;generation_source/&gt;&lt;order&gt;1&lt;/order&gt;&lt;parent_ui_id/&gt;&lt;sys_class_name&gt;sys_hub_action_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:12:13&lt;/sys_created_on&gt;&lt;sys_id&gt;ac7d193e83874710ce79b9c6feaad328&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:13&lt;/sys_updated_on&gt;&lt;ui_id&gt;3122ff3f-dd06-4fef-aa88-9075487fe281&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+1YXW/aMBT9K8jPlDmEpIG3qqjSpn1IbbeXUkXGcagn42S205Uh/vtuYodk0FKY6EPXvSDd63vtcy/n+CM3S8QTNEKnUdpnw2EfTz2MfYyjgOLIZ1P/NDz1CcWoiySZM4hUjGYqAfueiKJ0LJfnihHDktjr0UIpJs1qBeMJ17kgi28uDDz0josExtHo5raLcqJgRsMUGi03hvaFJMiUCQi9rDFtYjSLvLSTjBZzwBXz2vnRZY7dSOf9GEYgqYSDu4g9GCYTBjhSIjTrojmRCTGZWqCRUQU4oObkixSLdcQdl8bWOScPmv+Chf1+GZcyKIy6HqzN2PXHutMxMeQKZqamUOt2ZZwybVuSsJQUwpy3fTbgS254Jm2KIVNRZ2eimMvPtiFoPUHr7yg0gGB5WWeJ3JaVXt1lPy9rkBdcVh1xJYqMErG2iDGKTwtTwlkiJljV4jnJcy5nca6ye14lA5R5bybA6KUi+wlraj6TPUJL3D3oKuldgH9cub8RxcsiPsE0kLzqIr3Q54Jo3ZQCPYx/FCUSW5grIa66YFtQ5lHFc3MGq9wzh3nVdXSf0p3cog2V7HQN2x/iPg7CQeiVBX5nNMaxILnJ8lixHwXTJk4zNd+m/8cqqHNpgzoXNugwReyBulbEtYO9UYXTQ2XG1difcqjSOp/tgFODt1sNztPIwfLoETVE+BWpwZX16uXwnBLYIPQD+DlNfez1PRyxMIroEBMahWEw8BsOAQKogQggOtEwd6OJDW6fucBnRdAKPEwIe4CuhVCvAYs61E+W48Sh4W+Usw1hXNVOJ4r+gaJ4+ozwwrcki4Jfb3TZerb6/DL6KZf7KjnQ733Jo7A/DYc4Sk6SFE9PBpEfnBDK8AkLvYAFSUgDz38BzWFv1z6eRI+QNOVMtC9dR7hf7YFiS0QXDsZT8JyEKvOx86XK3zhfjielCOPXpKW3dOGiO8nGWsfM96xQ8mUYvweImvEfLIpNwm+C+xu++//5/u/zfRDspFrrar7eQ2kmE14i1i3W252X6TO5+HrzyEu7B8whM6ZWq9ttgRyWfJiW9ihw/TovBNPPFeyU1NzKXFJbTc1dzg06RQ2O9V5/ZYJ6K28UupNr6bDhVlJAg4Dk7c9TE2RhT9BogmQm2QR1J6iMiktyVW6IAHDrgcq3XFm7UMSley2zyU3IQleRmt6xBJhZef/wxJUUnP8Y38b26EitvnHBOmPbku0m1U+eGqftCt86x65cQDXTu2vePs+Co51ng//iO8YDJ6430fKwgr3viIq8/Q2tMjIuMBYAAA==&lt;/values&gt;&lt;/sys_hub_action_instance_v2&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=ac7d193e83874710ce79b9c6feaad328"/&gt;&lt;sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=dc7dd53e83874710ce79b9c6feaad3ce"/&gt;&lt;sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=dc7dd53e83874710ce79b9c6feaad3ce"/&gt;&lt;sys_hub_pill_compound action="delete_multiple" query="attached_to=dc7dd53e83874710ce79b9c6feaad3ce"/&gt;&lt;sys_hub_flow_variable action="delete_multiple" query="model=dc7dd53e83874710ce79b9c6feaad3ce"/&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_dc7dd53e83874710ce79b9c6feaad3ce&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:12:13&lt;/sys_created_on&gt;&lt;sys_id&gt;287d193e83874710ce79b9c6feaad31c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:13&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;current&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Record&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_dc7dd53e83874710ce79b9c6feaad3ce&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:12:13&lt;/sys_created_on&gt;&lt;sys_id&gt;a07dd53e83874710ce79b9c6feaad3df&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:13&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_dc7dd53e83874710ce79b9c6feaad3ce"/&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_dc7dd53e83874710ce79b9c6feaad3ce"/&gt;&lt;sys_hub_flow action="UPDATE"&gt;&lt;sys_id&gt;aeba99b683874710ce79b9c6feaad357&lt;/sys_id&gt;&lt;latest_snapshot&gt;dc7dd53e83874710ce79b9c6feaad3ce&lt;/latest_snapshot&gt;&lt;compiler_build/&gt;&lt;version_record/&gt;&lt;/sys_hub_flow&gt;&lt;sys_flow_trigger_plan action="delete_multiple" query="plan_id=aeba99b683874710ce79b9c6feaad357^sys_idNOT IN097d193e83874710ce79b9c6feaad355"/&gt;&lt;sys_flow_trigger_plan action="INSERT_OR_UPDATE"&gt;&lt;binding_strategy&gt;com.snc.process_flow.engine.binding.OncePerRecord&lt;/binding_strategy&gt;&lt;plan/&gt;&lt;plan_id&gt;aeba99b683874710ce79b9c6feaad357&lt;/plan_id&gt;&lt;snapshot&gt;dc7dd53e83874710ce79b9c6feaad3ce&lt;/snapshot&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 12:12:15&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;097d193e83874710ce79b9c6feaad355&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_overrides/&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 12:12:15&lt;/sys_updated_on&gt;&lt;trigger display_value=""&gt;7c7d193e83874710ce79b9c6feaad352&lt;/trigger&gt;&lt;/sys_flow_trigger_plan&gt;&lt;sys_flow_subflow_plan action="delete_multiple" query="plan_id=aeba99b683874710ce79b9c6feaad357"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1395284771</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>212348ab838f8b10ce79b9c6feaad363</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06c590a750000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table/>
+<target_name>Laptop Request Approval</target_name>
+<type>Flow</type>
+<update_domain>global</update_domain>
+<update_guid>ca5ed5be54874710310711583cd82654</update_guid>
+<update_guid_history>ca5ed5be54874710310711583cd82654:1395284771,017d193e6f874710666722c075f9f192:-1207309401,507dd53e1e87471051e1f5d7de4620ae:-1278627717,a26d953e28874710f11b1ffe4e745953:1479507328,677c19ba298747105e162b48e814243c:-85412066,601b59f6fc874710f7ea076d1ea199c8:-2025356287,95fa55f6b68747103aca2614d754eff2:-1291701817,88da11f6a78747107d2d992e598e9fc5:300610900,7eba1db6c887471084faeaa0ec3fe5f7:-753705358</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_related_x_2056461_projec_0_laptop_request_form_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="x_2056461_projec_0_laptop_request_form" version="2" view=""><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><group_by_field/><list_id display_value="Laptop Request Form - Default view" name="x_2056461_projec_0_laptop_request_form" related_list="NULL" sys_domain="global" view="Default view">71c8ddfe83474710ce79b9c6feaad33e</list_id><order_by/><position>0</position><related_list>REL:0dac4db683074710ce79b9c6feaad3da</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 11:51:50</sys_created_on><sys_id>39c855b283874710ce79b9c6feaad389</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 11:51:50</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Laptop Request Form - Default view</calculated_name><filter/><name>x_2056461_projec_0_laptop_request_form</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 11:51:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>71c8ddfe83474710ce79b9c6feaad33e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptop Request Form - Default view</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_ui_related_x_2056461_projec_0_laptop_request_form_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 11:51:50</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+<payload_hash>-978153562</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>2123ccab838f8b10ce79b9c6feaad37b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06c42c7660000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form</target_name>
+<type>Related Lists</type>
+<update_domain>global</update_domain>
+<update_guid>8ac855b27f8747102c77367358d18f8c</update_guid>
+<update_guid_history>8ac855b27f8747102c77367358d18f8c:-978153562</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_9cd1f8fa83034710ce79b9c6feaad3bd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Allow create for records in x_2056461_projec_0_laptop_request_form, for users with role x_2056461_projec_0.user.</description><local_or_existing>Existing</local_or_existing><name>x_2056461_projec_0_laptop_request_form</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:37</sys_created_on><sys_id>9cd1f8fa83034710ce79b9c6feaad3bd</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_security_acl_9cd1f8fa83034710ce79b9c6feaad3bd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-05 16:50:12</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-595108435</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>252348ab838f8b10ce79b9c6feaad364</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0727a4b700000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>dea6e30f2b4b0b101ff4b99a41b68b2e</update_guid>
+<update_guid_history>dea6e30f2b4b0b101ff4b99a41b68b2e:-595108435,a4d1f8fab5034710c2ddec448e531fc2:571189105</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2056461_projec_0_laptop_request_form_number_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="number" label="Number" language="en" table="x_2056461_projec_0_laptop_request_form"><sys_documentation action="INSERT_OR_UPDATE"><element>number</element><help/><hint/><label>Number</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><plural>Numbers</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:11</sys_created_on><sys_id>02b1f4fa83034710ce79b9c6feaad3bf</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Number</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_documentation_x_2056461_projec_0_laptop_request_form_number_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:06:04</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1292354146</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>292348ab838f8b10ce79b9c6feaad360</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bab02410000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Number</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>69d230be85034710d90b6f039c355031</update_guid>
+<update_guid_history>69d230be85034710d90b6f039c355031:1292354146,e2b138fa1e034710b91b8661acad2c1a:1292354146,71ee283651034710fa05128c885d0e93:486651244,47b698fe3c0f0710601b9038618854a4:1026429180</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_34d13cfa83034710ce79b9c6feaad313</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:38</sys_created_on><sys_id>34d13cfa83034710ce79b9c6feaad313</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.admin</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_security_acl display_value="x_2056461_projec_0_laptop_request_form">54d1f8fa83034710ce79b9c6feaad3cb</sys_security_acl><sys_update_name>sys_security_acl_role_34d13cfa83034710ce79b9c6feaad313</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:01:38</sys_updated_on><sys_user_role display_value="x_2056461_projec_0.admin" name="x_2056461_projec_0.admin">96017c7a83034710ce79b9c6feaad33f</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1721317536</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>2923ccab838f8b10ce79b9c6feaad378</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba6fb3e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>9dd13cfa5703471097ec4450c0c9d31b</update_guid>
+<update_guid_history>9dd13cfa5703471097ec4450c0c9d31b:-1721317536</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2056461_projec_0_laptop_request_form_short_description_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="short_description" label="Short Description" language="en" table="x_2056461_projec_0_laptop_request_form"><sys_documentation action="INSERT_OR_UPDATE"><element>short_description</element><help/><hint/><label>Short Description</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><plural>Short Descriptions</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:32:13</sys_created_on><sys_id>b4d8fcba83434710ce79b9c6feaad3f8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Short Description</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_documentation_x_2056461_projec_0_laptop_request_form_short_description_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:32:13</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>2115151098</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>2d2348ab838f8b10ce79b9c6feaad361</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc2fbfd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Short Description</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>99d830faae43471091aa4e8c0e7b708f</update_guid>
+<update_guid_history>99d830faae43471091aa4e8c0e7b708f:2115151098,ead3b432184347105f6daa85751ec683:994097161,15933cfea403471051f1344bd19e5e11:608298201,1d93f8fefe0347102475756924a979d2:2115151098,fdee2836cb0347106386051a2a36589f:728172195,a846ec3242cf07107523230274f6010d:342373235,eb36ac326ccf07108eb23844caa6cd1a:1849226132</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_a7d17cfa83034710ce79b9c6feaad3f3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:49</sys_created_on><sys_id>a7d17cfa83034710ce79b9c6feaad3f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.admin</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_security_acl display_value="x_2056461_projec_0_laptop_request_form">cbd17cfa83034710ce79b9c6feaad3ea</sys_security_acl><sys_update_name>sys_security_acl_role_a7d17cfa83034710ce79b9c6feaad3f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:01:49</sys_updated_on><sys_user_role display_value="x_2056461_projec_0.admin" name="x_2056461_projec_0.admin">96017c7a83034710ce79b9c6feaad33f</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>2042686473</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>2d23ccab838f8b10ce79b9c6feaad379</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba726940000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>7fd1bcfa71034710fffb7fbea396aa5e</update_guid>
+<update_guid_history>7fd1bcfa71034710fffb7fbea396aa5e:2042686473</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2056461_projec_0_laptop_request_form_manager</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="manager" table="x_2056461_projec_0_laptop_request_form"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Manager&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;manager&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;name&gt;x_2056461_projec_0_laptop_request_form&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="sys_user"&gt;sys_user&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 09:32:12&lt;/sys_created_on&gt;&lt;sys_id&gt;678834ba83434710ce79b9c6feaad3fe&lt;/sys_id&gt;&lt;sys_name&gt;Manager&lt;/sys_name&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_2056461_projec_0_laptop_request_form_manager&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 09:32:12&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1009375246</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:08</sys_created_on>
+<sys_id>512348ab838f8b10ce79b9c6feaad35d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc2fa920000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:08</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Manager</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>4dd830fa89434710281704bbf26bda6e</update_guid>
+<update_guid_history>4dd830fa89434710281704bbf26bda6e:-1009375246,a0d8fcba32434710e013ed8ec135a79c:-1009375246,5c2de432e5034710ba18e15e39e30a05:652726735,d83c24be15cf071030a805da5de7a6ac:503155739,c43c24be48cf0710747fea0bfd841b76:-888158302,3d0c2c7e06cf0710c32f109425daf7f9:503155739,a50c2c7e84cf0710e4d900334f03fecf:-888158302,9046ac322fcf0710bb9887e0e37c19dc:503155739,ab366c32b4cf0710a91bcb1463aec3ec:754137312</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2056461_projec_0_laptop_request_form_requester</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="requester" table="x_2056461_projec_0_laptop_request_form"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Requester&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;requester&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;name&gt;x_2056461_projec_0_laptop_request_form&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="sys_user"&gt;sys_user&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 09:32:09&lt;/sys_created_on&gt;&lt;sys_id&gt;89a7383a83434710ce79b9c6feaad32f&lt;/sys_id&gt;&lt;sys_name&gt;Requester&lt;/sys_name&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_2056461_projec_0_laptop_request_form_requester&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 09:32:09&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>251243892</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>552348ab838f8b10ce79b9c6feaad35e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc2f84a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Requester</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>4dd830fa58434710e93ae203fc7d3965</update_guid>
+<update_guid_history>4dd830fa58434710e93ae203fc7d3965:251243892,77c8bcba60434710719349ba55496bc8:251243892,894330fe190347103f7bff6a42a93eff:397652680,4e03f4bec103471074d7b0d802633481:1618086652,9cd2fc7e280347102fcbcccd4a426b1f:-1328967431,a3c2bc7e110347102bed45947585fbf2:761001596,baee68369303471073b29e612ae53bcc:2012475091,303c64be51cf0710769dcd290c506f50:1191222559,b03c64be31cf071043afd04828ce9a32:-156690654,320cac7e19cf07100a393b749733590d:1191222559,6e0c6c7e6ccf07108a8909aa316a95c9:-156690654,e55858f2074f071051b24d20e346258d:1191222559,385818f2954f0710ca3c73dd600ff5fe:-1013775710</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2056461_projec_0_laptop_request_form_type_of_request</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="type_of_request" table="x_2056461_projec_0_laptop_request_form"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice&gt;1&lt;/choice&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Type of Laptop&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;type_of_request&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Choice"&gt;choice&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_2056461_projec_0_laptop_request_form&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 09:32:13&lt;/sys_created_on&gt;&lt;sys_id&gt;2d9874ba83434710ce79b9c6feaad302&lt;/sys_id&gt;&lt;sys_name&gt;Type of Laptop&lt;/sys_name&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_2056461_projec_0_laptop_request_form_type_of_request&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 09:48:14&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1827186735</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>592348ab838f8b10ce79b9c6feaad35f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bd1a08e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Type of Laptop</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>277cb0f2ac8347108ac1e2579e6d090e</update_guid>
+<update_guid_history>277cb0f2ac8347108ac1e2579e6d090e:1827186735,f8d8fcba9943471025c229602ffa51e2:-1439594545,e73de832e8034710912edf0f7aa20f32:-91157699,193ca4be71cf0710af07cbc5ac4d6508:629476489,9d3c64bec5cf0710911971ac2b2078c5:1823046638,570cac7e64cf071057244b73e9597cae:629476489,870cac7e39cf071074fa60319994c876:1823046638,c446ac328fcf0710f8bfd121f4d11b9d:629476489,6f366c32a1cf07103558b502fc0b2ee8:1818484748</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_choice_x_2056461_projec_0_laptop_request_form_status</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="status" table="x_2056461_projec_0_laptop_request_form" version="3"><sys_choice_set action="INSERT_OR_UPDATE"><element>status</element><name>x_2056461_projec_0_laptop_request_form</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:37:42</sys_created_on><sys_id>891a34fa83434710ce79b9c6feaad3b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>status</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_choice_x_2056461_projec_0_laptop_request_form_status</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:37:42</sys_updated_on></sys_choice_set><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>status</element><hint/><inactive>false</inactive><label>Pending</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><sequence>100</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:37:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ced9f0fa83434710ce79b9c6feaad3af</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:38:50</sys_updated_on><value>pending</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>status</element><hint/><inactive>false</inactive><label>Approval</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><sequence>200</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:37:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9d1abc7e83434710ce79b9c6feaad35a</sys_id><sys_mod_count>4</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:38:54</sys_updated_on><value>approval</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>status</element><hint/><inactive>false</inactive><label>Approved</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><sequence>300</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:38:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>631afc7e83434710ce79b9c6feaad39e</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:38:57</sys_updated_on><value>approved</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>status</element><hint/><inactive>false</inactive><label>Rejected</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><sequence>400</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:38:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>532afc7e83434710ce79b9c6feaad39d</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:39:05</sys_updated_on><value>rejected</value></sys_choice></sys_choice></record_update>]]></payload>
+<payload_hash>109676452</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:08</sys_created_on>
+<sys_id>5d2348ab838f8b10ce79b9c6feaad35b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc93f560000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:08</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Status</target_name>
+<type>Choice list</type>
+<update_domain>global</update_domain>
+<update_guid>6d6a78be8b434710fc23316e17f7937f</update_guid>
+<update_guid_history>6d6a78be8b434710fc23316e17f7937f:109676452,1f5a38bec34347101737fccba0816a79:1642075121,765a74beb2434710d6cc6d726cfc1d7b:1595924397,b55af4be99434710a8b9404482f888ef:1620645212,185af0be074347107e01cae0be5c9bf6:-1220495188,434a7832b0434710db24301e4f8daca3:-430515197,5d4a74be8943471029d4674cfff6f673:643565456,484a703e7d434710b1f84d7f67272946:-1534375716,fa3a34befb434710325a2cb61c7ba54a:404326736,693af0be15434710b5a624305685743b:-556969788,032afc7e34434710b58f40ae7920daa3:-1480586824,e02afc7e6b434710eca8c76471747e98:1305894954,eb1ab8fad7434710b8e971971c61c317:-2001163914,121abc7e5e4347106ff953f3a27eb494:-512740132,cd1a34fa88434710acf71b7b66c7a5b2:1819314770,1dee28360d03471017aa37b3bc3d3926:-1256221698,15ee28364c034710e96032f3b11c8f16:-1052576537,11ee2836bf034710ec9ed6a97f51e312:529645159,51eee4360103471028aeb333b2dde9e4:-869416119,8046ac3258cf07109970f3f373cdb274:-68850968</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2056461_projec_0_laptop_request_form_status_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="status" label="Status" language="en" table="x_2056461_projec_0_laptop_request_form"><sys_documentation action="INSERT_OR_UPDATE"><element>status</element><help/><hint/><label>Status</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><plural>Status</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:35:05</sys_created_on><sys_id>6679383e83434710ce79b9c6feaad300</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Status</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_documentation_x_2056461_projec_0_laptop_request_form_status_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:35:05</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>553546323</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>612348ab838f8b10ce79b9c6feaad362</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc593850000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Status</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>be79383edb434710705e652cf03ef50d</update_guid>
+<update_guid_history>be79383edb434710705e652cf03ef50d:553546323,8aee283661034710bd8de30c51e15ade:-1034067883,0046ac32f6cf07105456eca030f0d47b:919465669,ab36ac32b6cf0710a3eb5cc2ed7b7305:287621357</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_b2d17cfa83034710ce79b9c6feaad3c5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:47</sys_created_on><sys_id>b2d17cfa83034710ce79b9c6feaad3c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.user</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_security_acl display_value="x_2056461_projec_0_laptop_request_form">96d17cfa83034710ce79b9c6feaad365</sys_security_acl><sys_update_name>sys_security_acl_role_b2d17cfa83034710ce79b9c6feaad3c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:01:47</sys_updated_on><sys_user_role display_value="x_2056461_projec_0.user" name="x_2056461_projec_0.user">1e017c7a83034710ce79b9c6feaad362</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1477390460</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>6123ccab838f8b10ce79b9c6feaad37a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba71b070000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>43d17cfa8f0347107a1957dcd5788ecd</update_guid>
+<update_guid_history>43d17cfa8f0347107a1957dcd5788ecd:1477390460</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_4ed17cfa83034710ce79b9c6feaad310</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Allow write for records in x_2056461_projec_0_laptop_request_form, for users with role x_2056461_projec_0.admin.</description><local_or_existing>Existing</local_or_existing><name>x_2056461_projec_0_laptop_request_form</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:44</sys_created_on><sys_id>4ed17cfa83034710ce79b9c6feaad310</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_security_acl_4ed17cfa83034710ce79b9c6feaad310</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-05 16:49:35</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>313306062</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>652348ab838f8b10ce79b9c6feaad363</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a07279bcdf0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>d5866fcb894b0b10fe3db8eb32c1e5eb</update_guid>
+<update_guid_history>d5866fcb894b0b10fe3db8eb32c1e5eb:313306062,ded17cfa3403471016563ee1825e4414:-940269695</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_3fb178fa83034710ce79b9c6feaad30f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="3fb178fa83034710ce79b9c6feaad30f" sys_domain="global" table="x_2056461_projec_0_laptop_request_form" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 10:49:51</sys_created_on><sys_id>7d9ac5b283074710ce79b9c6feaad3cd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2056461_projec_0_laptop_request_form" sys_domain="global" view="Default view">3fb178fa83034710ce79b9c6feaad30f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 10:49:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>requester</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 10:49:51</sys_created_on><sys_id>399ac5b283074710ce79b9c6feaad3ce</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2056461_projec_0_laptop_request_form" sys_domain="global" view="Default view">3fb178fa83034710ce79b9c6feaad30f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 10:49:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>request_date</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 10:49:51</sys_created_on><sys_id>f19ac5b283074710ce79b9c6feaad3cf</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2056461_projec_0_laptop_request_form" sys_domain="global" view="Default view">3fb178fa83034710ce79b9c6feaad30f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 10:49:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 10:49:51</sys_created_on><sys_id>bd9ac5b283074710ce79b9c6feaad3cf</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2056461_projec_0_laptop_request_form" sys_domain="global" view="Default view">3fb178fa83034710ce79b9c6feaad30f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 10:49:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>manager</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 10:49:51</sys_created_on><sys_id>799ac5b283074710ce79b9c6feaad3d0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2056461_projec_0_laptop_request_form" sys_domain="global" view="Default view">3fb178fa83034710ce79b9c6feaad30f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 10:49:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type_of_request</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 10:49:51</sys_created_on><sys_id>359ac5b283074710ce79b9c6feaad3d1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2056461_projec_0_laptop_request_form" sys_domain="global" view="Default view">3fb178fa83034710ce79b9c6feaad30f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 10:49:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 10:49:51</sys_created_on><sys_id>fd9ac5b283074710ce79b9c6feaad3d1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2056461_projec_0_laptop_request_form" sys_domain="global" view="Default view">3fb178fa83034710ce79b9c6feaad30f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 10:49:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>reason</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 10:49:51</sys_created_on><sys_id>b99ac5b283074710ce79b9c6feaad3d2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2056461_projec_0_laptop_request_form" sys_domain="global" view="Default view">3fb178fa83034710ce79b9c6feaad30f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 10:49:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>employee_email</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 10:49:51</sys_created_on><sys_id>759ac5b283074710ce79b9c6feaad3d3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2056461_projec_0_laptop_request_form" sys_domain="global" view="Default view">3fb178fa83034710ce79b9c6feaad30f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 10:49:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_2056461_projec_0_laptop_request_form</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3fb178fa83034710ce79b9c6feaad30f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form</sys_name><sys_overrides/><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_ui_section_3fb178fa83034710ce79b9c6feaad30f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:01:18</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-1694150024</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>6523ccab838f8b10ce79b9c6feaad37b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06c0a06230000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>7d9a09b2c007471058d8af5059fd3b08</update_guid>
+<update_guid_history>7d9a09b2c007471058d8af5059fd3b08:-1694150024,d34dbc36408347109080b2f0583cb789:-1694150024,bd8abcbe7a4347105e1949a2a12ad4e5:1472187963,aa79f43eab4347103924d759b99a0bf0:-1827773032,70d8fcbad3434710b6ae46c773d985df:-1909214492,e0d8fcba8b4347106232e2e8be52c998:822053755,54d8fcbaf04347100a119f8c2eeede4c:644827714,dcd8fcba5c4347108c8e03f981efb31c:-957839826,37c8bcba704347105c77e342393282c4:636773674,58c178fa7e03471074b1984c622dd718:430064321,00c178fa68034710242a204a7fe6c115:-378238070</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_9dd13cfa83034710ce79b9c6feaad3bf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Allow read for records in x_2056461_projec_0_laptop_request_form, for users with role x_2056461_projec_0.admin.</description><local_or_existing>Existing</local_or_existing><name>x_2056461_projec_0_laptop_request_form</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:41</sys_created_on><sys_id>9dd13cfa83034710ce79b9c6feaad3bf</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_security_acl_9dd13cfa83034710ce79b9c6feaad3bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-05 16:49:59</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-860463963</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>692348ab838f8b10ce79b9c6feaad364</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0727a193d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>0f96230fa14b0b10b5a623c22ff12f86</update_guid>
+<update_guid_history>0f96230fa14b0b10b5a623c22ff12f86:-860463963,21d13cfa47034710b8e21b8106ce46c4:182709565</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2056461_projec_0_laptop_request_form_reason_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="reason" label="Reason" language="en" table="x_2056461_projec_0_laptop_request_form"><sys_documentation action="INSERT_OR_UPDATE"><element>reason</element><help/><hint/><label>Reason</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><plural>Reasons</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:39:40</sys_created_on><sys_id>8a8abcbe83434710ce79b9c6feaad3f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Reason</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_documentation_x_2056461_projec_0_laptop_request_form_reason_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:39:40</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1552856872</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>6d2348ab838f8b10ce79b9c6feaad360</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc9c9b70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Reason</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>068afcbe5f43471077c1a84aa8604600</update_guid>
+<update_guid_history>068afcbe5f43471077c1a84aa8604600:-1552856872,132d283280034710c70e2a95d7dacdda:-2042998233,b336ac325ecf07105c657b2b3dda5546:1999638679,2f36ac3224cf0710ff61b9d951f0a102:-1818781838</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_6ad17cfa83034710ce79b9c6feaad370</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:46</sys_created_on><sys_id>6ad17cfa83034710ce79b9c6feaad370</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.admin</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_security_acl display_value="x_2056461_projec_0_laptop_request_form">4ed17cfa83034710ce79b9c6feaad310</sys_security_acl><sys_update_name>sys_security_acl_role_6ad17cfa83034710ce79b9c6feaad370</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:01:46</sys_updated_on><sys_user_role display_value="x_2056461_projec_0.admin" name="x_2056461_projec_0.admin">96017c7a83034710ce79b9c6feaad33f</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-134451308</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>6d23ccab838f8b10ce79b9c6feaad378</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba718060000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>0bd17cfab4034710db9ca5b58bc2a778</update_guid>
+<update_guid_history>0bd17cfab4034710db9ca5b58bc2a778:-134451308</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_choice_x_2056461_projec_0_laptop_request_form_type_of_request</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="type_of_request" table="x_2056461_projec_0_laptop_request_form" version="3"><sys_choice_set action="INSERT_OR_UPDATE"><element>type_of_request</element><name>x_2056461_projec_0_laptop_request_form</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:34:20</sys_created_on><sys_id>3f49fcfe83034710ce79b9c6feaad370</sys_id><sys_mod_count>0</sys_mod_count><sys_name>type_of_request</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_choice_x_2056461_projec_0_laptop_request_form_type_of_request</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:34:20</sys_updated_on></sys_choice_set><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>type_of_request</element><hint/><inactive>false</inactive><label>Advanced</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><sequence/><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:34:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>73493cbe83034710ce79b9c6feaad3d7</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:34:39</sys_updated_on><value>advanced</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>type_of_request</element><hint/><inactive>false</inactive><label>Basic</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><sequence/><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:34:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e149303e83434710ce79b9c6feaad384</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:34:27</sys_updated_on><value>basic</value></sys_choice></sys_choice></record_update>]]></payload>
+<payload_hash>-1245792746</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:08</sys_created_on>
+<sys_id>912348ab838f8b10ce79b9c6feaad35c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc52d060000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:08</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Type of Request</target_name>
+<type>Choice list</type>
+<update_domain>global</update_domain>
+<update_guid>1069343eb3434710191f6f58ea522027</update_guid>
+<update_guid_history>1069343eb3434710191f6f58ea522027:-1245792746,0359383a0443471069712d07edcb664c:-87318817,2d59b03ea94347105927444b70de9a83:-219590522,7f49b03e554347108cddb30460140877:-1605120795,95eee43667034710b972e1ef3a83c0ec:169296956,55eee436b00347107136d2de5f721ee8:-1812399145,0046ac3287cf0710d643220eeaed09a6:1368899001</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2056461_projec_0_laptop_request_form_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_2056461_projec_0_laptop_request_form"><active>true</active><array>false</array><attributes>enforce_dot_walk_cross_scope_access=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_2056461_projec_0_laptop_request_form</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:04</sys_created_on><sys_id>d4b174fa83034710ce79b9c6feaad3d3</sys_id><sys_name>x_2056461_projec_0_laptop_request_form</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_dictionary_x_2056461_projec_0_laptop_request_form_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:01:04</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>397884740</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:08</sys_created_on>
+<sys_id>952348ab838f8b10ce79b9c6feaad35d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba67e540000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:08</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>15b1f4fa68034710ed7205b4eb376b73</update_guid>
+<update_guid_history>15b1f4fa68034710ed7205b4eb376b73:397884740,beee6836f60347101921beb070d47ee8:372673590,0ea694fe010f0710b74ac5c34ee7184e:-1376892566</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2056461_projec_0_laptop_request_form_request_date</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="request_date" table="x_2056461_projec_0_laptop_request_form"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Request Date&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;request_date&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value=""&gt;glide_date_time&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_2056461_projec_0_laptop_request_form&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 09:32:10&lt;/sys_created_on&gt;&lt;sys_id&gt;2668343283434710ce79b9c6feaad3dc&lt;/sys_id&gt;&lt;sys_name&gt;Request Date&lt;/sys_name&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_2056461_projec_0_laptop_request_form_request_date&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 09:32:10&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1045094967</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>992348ab838f8b10ce79b9c6feaad35e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc2f8930000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Request Date</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>0dd830faa243471082af1b5410079968</update_guid>
+<update_guid_history>0dd830faa243471082af1b5410079968:-1045094967,58d8fcbaa1434710d499671ad0fff020:-1045094967,eaee6836430347106ab8dbb85eba896a:1282643640,783c64be8bcf0710da71e07e41048a2e:-1948864532,a43c64be05cf0710b2efbb923c3f3904:1284775359,e20c6c7ea6cf071017c4fa5db293f7c6:-1948864532,120c6c7e15cf0710c1177385fdb6e09c:1284775359,ac46ec3208cf0710e245d8c88d213d2f:-1948864532,eb366c3229cf071083e33e6193620dff:-1823467313</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2056461_projec_0_laptop_request_form_employee_email_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="employee_email" label="Employee Email" language="en" table="x_2056461_projec_0_laptop_request_form"><sys_documentation action="INSERT_OR_UPDATE"><element>employee_email</element><help/><hint/><label>Employee Email</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><plural>Employee Emails</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 10:49:50</sys_created_on><sys_id>699ac5b283074710ce79b9c6feaad3b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Employee Email</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_documentation_x_2056461_projec_0_laptop_request_form_employee_email_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 10:49:50</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1203137310</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>9d2348ab838f8b10ce79b9c6feaad35f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06c0a03fd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Employee Email</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>f19ac5b21f074710e466356fa60f11c6</update_guid>
+<update_guid_history>f19ac5b21f074710e466356fa60f11c6:-1203137310,cd7ac1b2980747103d17825c18aef43b:468321298,6b4dbc3648834710f803ef2ea64bd0c0:-1203137310,af0d24320b034710422fbf23f624044d:202396332,70c96c3a66cf0710d0d8397eeb99c8d7:-1469062276,def72c3611cf071048cccff825e180e7:202396332,2007a8b26ecf07108f8ccc243650779c:-1469062276</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2056461_projec_0_laptop_request_form_requester_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="requester" label="Requester" language="en" table="x_2056461_projec_0_laptop_request_form"><sys_documentation action="INSERT_OR_UPDATE"><element>requester</element><help/><hint/><label>Requester</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><plural>Requesters</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:32:13</sys_created_on><sys_id>b0d8fcba83434710ce79b9c6feaad3f0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Requester</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_documentation_x_2056461_projec_0_laptop_request_form_requester_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:32:13</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-905629304</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>a12348ab838f8b10ce79b9c6feaad361</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc2fafa0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Requester</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>49d830faa8434710983841edb2121880</update_guid>
+<update_guid_history>49d830faa8434710983841edb2121880:-905629304,704330fe7f03471070d07f5428742ff0:1036826779,a8d2fc7ead034710cb03ad4038c1a866:-775696213,6bc2fc7e7c0347103453a644699c9701:-905629304,8aee28367f034710de73c57cb9e416c0:770901813,4a5858f2df4f0710819c7026bc431b96:-1041621179,495858f29c4f071001f17e9667a7de01:-1171554270</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_74d13cfa83034710ce79b9c6feaad343</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:39</sys_created_on><sys_id>74d13cfa83034710ce79b9c6feaad343</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.user</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_security_acl display_value="x_2056461_projec_0_laptop_request_form">9cd1f8fa83034710ce79b9c6feaad3bd</sys_security_acl><sys_update_name>sys_security_acl_role_74d13cfa83034710ce79b9c6feaad343</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:01:39</sys_updated_on><sys_user_role display_value="x_2056461_projec_0.user" name="x_2056461_projec_0.user">1e017c7a83034710ce79b9c6feaad362</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1764762554</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>a123ccab838f8b10ce79b9c6feaad379</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba6fc8a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>d1d13cfa3303471027239acfa279d94b</update_guid>
+<update_guid_history>d1d13cfa3303471027239acfa279d94b:-1764762554</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2056461_projec_0_laptop_request_form_type_of_request_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="type_of_request" label="Type of Laptop" language="en" table="x_2056461_projec_0_laptop_request_form"><sys_documentation action="INSERT_OR_UPDATE"><element>type_of_request</element><help/><hint/><label>Type of Laptop</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><plural>Type of Laptops</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:32:13</sys_created_on><sys_id>bcd8fcba83434710ce79b9c6feaad3f2</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Type of Laptop</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_documentation_x_2056461_projec_0_laptop_request_form_type_of_request_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:48:15</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1821417518</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>a52348ab838f8b10ce79b9c6feaad362</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bd1a0570000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Type of Laptop</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>2f7cb0f2478347108294224b80b1ad0a</update_guid>
+<update_guid_history>2f7cb0f2478347108294224b80b1ad0a:1821417518,d1d830fa53434710d649ae72517d18a9:1761254088,9b3da8329403471058f6c120f3c64bf2:-346771067,8c46ac3221cf0710d432046443f606ac:-1058569323,2b36ac325dcf07102a69c2d8daf3d908:1495329122</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_ced13cfa83034710ce79b9c6feaad3de</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:43</sys_created_on><sys_id>ced13cfa83034710ce79b9c6feaad3de</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.user</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_security_acl display_value="x_2056461_projec_0_laptop_request_form">d5d13cfa83034710ce79b9c6feaad34d</sys_security_acl><sys_update_name>sys_security_acl_role_ced13cfa83034710ce79b9c6feaad3de</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:01:43</sys_updated_on><sys_user_role display_value="x_2056461_projec_0.user" name="x_2056461_projec_0.user">1e017c7a83034710ce79b9c6feaad362</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>689850611</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>a523ccab838f8b10ce79b9c6feaad37a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba70dab0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>16d17cfae50347105facc8c9d58b6f63</update_guid>
+<update_guid_history>16d17cfae50347105facc8c9d58b6f63:689850611</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_54d1f8fa83034710ce79b9c6feaad3cb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Allow create for records in x_2056461_projec_0_laptop_request_form, for users with role x_2056461_projec_0.admin.</description><local_or_existing>Existing</local_or_existing><name>x_2056461_projec_0_laptop_request_form</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:37</sys_created_on><sys_id>54d1f8fa83034710ce79b9c6feaad3cb</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_security_acl_54d1f8fa83034710ce79b9c6feaad3cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-05 16:50:07</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-614957121</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>a92348ab838f8b10ce79b9c6feaad363</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0727a37eb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>c1a6630f4a4b0b104f41f8f5b44f2271</update_guid>
+<update_guid_history>c1a6630f4a4b0b104f41f8f5b44f2271:-614957121,a0d1f8fafc034710da344fa6cb1c21d0:571189105</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_1e017c7a83034710ce79b9c6feaad362</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default user role</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_2056461_projec_0.user</name><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 08:58:11</sys_created_on><sys_id>1e017c7a83034710ce79b9c6feaad362</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056461_projec_0.user</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_user_role_1e017c7a83034710ce79b9c6feaad362</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 08:58:11</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>586728467</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>a923ccab838f8b10ce79b9c6feaad37b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba3cdba0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table/>
+<target_name>x_2056461_projec_0.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>16017c7a99034710738773a53af0cc67</update_guid>
+<update_guid_history>16017c7a99034710738773a53af0cc67:586728467</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_cbd17cfa83034710ce79b9c6feaad3ea</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Allow delete for records in x_2056461_projec_0_laptop_request_form, for users with role x_2056461_projec_0.admin.</description><local_or_existing>Existing</local_or_existing><name>x_2056461_projec_0_laptop_request_form</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:48</sys_created_on><sys_id>cbd17cfa83034710ce79b9c6feaad3ea</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_security_acl_cbd17cfa83034710ce79b9c6feaad3ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-05 16:49:22</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1689318320</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>ad2348ab838f8b10ce79b9c6feaad364</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0727988440000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>0276ebcbe74b0b1027fb694dbf6c0fc3</update_guid>
+<update_guid_history>0276ebcbe74b0b1027fb694dbf6c0fc3:-1689318320,5fd17cfa26034710f8bf93f73310dcee:1162487379</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_0e013c7a83034710ce79b9c6feaad348</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>SNS</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>Project Application</name><package_json/><package_resolver_version>1.0.0</package_resolver_version><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_2056461_projec_0</scope><scoped_administration>false</scoped_administration><short_description/><source>x_2056461_projec_0</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 08:58:11</sys_created_on><sys_id>0e013c7a83034710ce79b9c6feaad348</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 08:58:11</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_translated_text action="delete_multiple" query="documentkey=0e013c7a83034710ce79b9c6feaad348"/></record_update>]]></payload>
+<payload_hash>1505840145</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:08</sys_created_on>
+<sys_id>d12348ab838f8b10ce79b9c6feaad35b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba3cb360000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:08</sys_updated_on>
+<table/>
+<target_name>Project Application</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>da017c7aea034710ce5b527c808dff3c</update_guid>
+<update_guid_history>da017c7aea034710ce5b527c808dff3c:1505840145</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2056461_projec_0_laptop_request_form_manager_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="manager" label="Manager" language="en" table="x_2056461_projec_0_laptop_request_form"><sys_documentation action="INSERT_OR_UPDATE"><element>manager</element><help/><hint/><label>Manager</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><plural>Managers</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:32:13</sys_created_on><sys_id>b4d8fcba83434710ce79b9c6feaad3ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Manager</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_documentation_x_2056461_projec_0_laptop_request_form_manager_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:32:13</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-2081549908</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>d12348ab838f8b10ce79b9c6feaad360</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc2fc5c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Manager</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>55d830fa0443471038fe8c5e7b38da96</update_guid>
+<update_guid_history>55d830fa0443471038fe8c5e7b38da96:-2081549908,1c2da43200034710409f924df8b4cbea:359133802,1046ac32dfcf07100f547652155edde4:1702167034,a736ac3237cf07106a36f693bf86000b:1947492422</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_c4b174fa83034710ce79b9c6feaad3d1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><filter_extension/><is_data_interface>false</is_data_interface><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label>Laptop Request Form</label><live_feed_enabled>false</live_feed_enabled><name>x_2056461_projec_0_laptop_request_form</name><number_ref display_value="LAP">e1b1f4fa83034710ce79b9c6feaad378</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:03</sys_created_on><sys_id>c4b174fa83034710ce79b9c6feaad3d1</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Laptop Request Form</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_db_object_c4b174fa83034710ce79b9c6feaad3d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:32:15</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-1588393902</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:08</sys_created_on>
+<sys_id>d52348ab838f8b10ce79b9c6feaad35c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc2fe8f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:08</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>91d830fa0f434710ef69deeaba367bb3</update_guid>
+<update_guid_history>91d830fa0f434710ef69deeaba367bb3:-1588393902,a1b1f4fa3c03471002b0e4bc97784d76:-1489033808</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2056461_projec_0_laptop_request_form_number</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="number" table="x_2056461_projec_0_laptop_request_form"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Number</column_label><comments/><create_roles/><default_value>javascript:global.getNextObjNumberPadded();</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>number</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_2056461_projec_0_laptop_request_form</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:10</sys_created_on><sys_id>75b1f4fa83034710ce79b9c6feaad37d</sys_id><sys_name>Number</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_dictionary_x_2056461_projec_0_laptop_request_form_number</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:06:54</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1471078201</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:08</sys_created_on>
+<sys_id>d92348ab838f8b10ce79b9c6feaad35d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06babc9760000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:08</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Number</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>8e03f4be05034710c21c503e69cd3258</update_guid>
+<update_guid_history>8e03f4be05034710c21c503e69cd3258:1471078201,25d230be84034710b678336088d01b2a:357251006,e2b138fa8d034710ba05636e7132e217:1471078201,eeee6836e4034710353fad647d388f7a:1473406739,903c24be5ccf071044b18bbc625314c7:-303699105,5c3c24beedcf0710e7f6e7ceb240c8af:-1417526300,420c6c7ec1cf07102301adb7588a8f2d:-303699105,bd0c2c7ed7cf0710a248e3e6a8ed9afc:-1417526300,72b698fe3a0f07108d0231b9dda6c563:-303699105</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2056461_projec_0_laptop_request_form_short_description</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="short_description" table="x_2056461_projec_0_laptop_request_form"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Short Description&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;short_description&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_2056461_projec_0_laptop_request_form&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-04 09:32:11&lt;/sys_created_on&gt;&lt;sys_id&gt;3b78343283434710ce79b9c6feaad3e2&lt;/sys_id&gt;&lt;sys_name&gt;Short Description&lt;/sys_name&gt;&lt;sys_package display_value="Project Application" source="x_2056461_projec_0"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Application"&gt;0e013c7a83034710ce79b9c6feaad348&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_2056461_projec_0_laptop_request_form_short_description&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-04 09:32:11&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2113284359</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>dd2348ab838f8b10ce79b9c6feaad35e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc2f9010000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Short Description</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>49d830faf0434710081dddf0a4bb9a6b</update_guid>
+<update_guid_history>49d830faf0434710081dddf0a4bb9a6b:2113284359,5cd8fcba754347108027c4d57f1cf94f:2113284359,bad3b4321d434710e2fa57cc93b989aa:-1725152813,5993f8fe6903471013db2a7bf217aef0:-1413582073,0d93f8fe640347105c4b430d4a517bcf:497730517,2aee68365a034710b3daac217babe1a3:-1285832372,c13c64beefcf0710d544ddcf3f87e495:-217074024,b03c64beffcf07102f8d167991af3553:1106607917,760cac7e81cf0710486357a84393e039:-217074024,b20cac7ec5cf07105a67743ef9b2ee10:1106607917,1c46ec322ccf071075f17150e1fe1a05:-217074024,af366c3214cf0710c5f142be5b6d9aef:-1277046789</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_d3d17cfa83034710ce79b9c6feaad3cf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Allow delete for records in x_2056461_projec_0_laptop_request_form, for users with role x_2056461_projec_0.user.</description><local_or_existing>Existing</local_or_existing><name>x_2056461_projec_0_laptop_request_form</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:49</sys_created_on><sys_id>d3d17cfa83034710ce79b9c6feaad3cf</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_security_acl_d3d17cfa83034710ce79b9c6feaad3cf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-05 16:48:48</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-334635776</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>e12348ab838f8b10ce79b9c6feaad365</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0727906a40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>f156e7cb554b0b10c9c3a455b8aaa77a</update_guid>
+<update_guid_history>f156e7cb554b0b10c9c3a455b8aaa77a:-334635776,a7d1bcfa5903471012001e8171ab842a:1162487379</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_d5d13cfa83034710ce79b9c6feaad34d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Allow read for records in x_2056461_projec_0_laptop_request_form, for users with role x_2056461_projec_0.user.</description><local_or_existing>Existing</local_or_existing><name>x_2056461_projec_0_laptop_request_form</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:41</sys_created_on><sys_id>d5d13cfa83034710ce79b9c6feaad34d</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_security_acl_d5d13cfa83034710ce79b9c6feaad34d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-05 16:49:53</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-2016053729</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>e123ccab838f8b10ce79b9c6feaad378</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0727a01c30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>a196efcbfb4b0b10c4c2714c0d68c438</update_guid>
+<update_guid_history>a196efcbfb4b0b10c4c2714c0d68c438:-2016053729,b5d13cface034710a6c97b218312ecda:182709565</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2056461_projec_0_laptop_request_form_request_date_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="request_date" label="Request Date" language="en" table="x_2056461_projec_0_laptop_request_form"><sys_documentation action="INSERT_OR_UPDATE"><element>request_date</element><help/><hint/><label>Request Date</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><plural>Request Dates</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:32:13</sys_created_on><sys_id>b8d8fcba83434710ce79b9c6feaad3f5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request Date</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_documentation_x_2056461_projec_0_laptop_request_form_request_date_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:32:13</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1597806000</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>e52348ab838f8b10ce79b9c6feaad361</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06bc2fb790000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form.Request Date</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>15d830faf4434710144c73699469a987</update_guid>
+<update_guid_history>15d830faf4434710144c73699469a987:-1597806000,c6ee2836ff034710a32c14db336d24e6:108994656,2c46ec3243cf071026d9d427a1234537:1569462800,6b36ac322bcf07100cbef2092129ee1d:-1863730966</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_79d13cfa83034710ce79b9c6feaad3c8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:42</sys_created_on><sys_id>79d13cfa83034710ce79b9c6feaad3c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.admin</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_security_acl display_value="x_2056461_projec_0_laptop_request_form">9dd13cfa83034710ce79b9c6feaad3bf</sys_security_acl><sys_update_name>sys_security_acl_role_79d13cfa83034710ce79b9c6feaad3c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:01:42</sys_updated_on><sys_user_role display_value="x_2056461_projec_0.admin" name="x_2056461_projec_0.admin">96017c7a83034710ce79b9c6feaad33f</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1330373391</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>e523ccab838f8b10ce79b9c6feaad379</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba709200000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>cad17cfa53034710b3a7d9da264fca0e</update_guid>
+<update_guid_history>cad17cfa53034710b3a7d9da264fca0e:-1330373391</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2056461_projec_0_laptop_request_form__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Laptop Request Form" language="en" table="x_2056461_projec_0_laptop_request_form"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Laptop Request Form</label><language>en</language><name>x_2056461_projec_0_laptop_request_form</name><plural>Laptop Request Forms</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:04</sys_created_on><sys_id>5cb174fa83034710ce79b9c6feaad3d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptop Request Form</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_documentation_x_2056461_projec_0_laptop_request_form__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:01:04</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>910881624</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>e92348ab838f8b10ce79b9c6feaad362</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba6861e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>Laptop Request Form</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>d8eea43664034710865a2d1eb5979078</update_guid>
+<update_guid_history>d8eea43664034710865a2d1eb5979078:-1431845926,5ceea4369f0347100f643d740fb9b66f:644956658</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_ffd1bcfa83034710ce79b9c6feaad32e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:51</sys_created_on><sys_id>ffd1bcfa83034710ce79b9c6feaad32e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.user</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_security_acl display_value="x_2056461_projec_0_laptop_request_form">d3d17cfa83034710ce79b9c6feaad3cf</sys_security_acl><sys_update_name>sys_security_acl_role_ffd1bcfa83034710ce79b9c6feaad32e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 09:01:51</sys_updated_on><sys_user_role display_value="x_2056461_projec_0.user" name="x_2056461_projec_0.user">1e017c7a83034710ce79b9c6feaad362</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1162527718</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>e923ccab838f8b10ce79b9c6feaad37a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba72bd70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form.x_2056461_projec_0.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>dce1bcfa9003471095b32a7f6311208d</update_guid>
+<update_guid_history>dce1bcfa9003471095b32a7f6311208d:1162527718</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_96d17cfa83034710ce79b9c6feaad365</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Allow write for records in x_2056461_projec_0_laptop_request_form, for users with role x_2056461_projec_0.user.</description><local_or_existing>Existing</local_or_existing><name>x_2056461_projec_0_laptop_request_form</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 09:01:45</sys_created_on><sys_id>96d17cfa83034710ce79b9c6feaad365</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_2056461_projec_0_laptop_request_form</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_security_acl_96d17cfa83034710ce79b9c6feaad365</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-05 16:49:43</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>793423966</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>ed2348ab838f8b10ce79b9c6feaad363</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a07279dd0d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table>x_2056461_projec_0_laptop_request_form</table>
+<target_name>x_2056461_projec_0_laptop_request_form</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>1b866fcb2b4b0b10c539d99aa742a5f6</update_guid>
+<update_guid_history>1b866fcb2b4b0b10c539d99aa742a5f6:793423966,2ad17cfa15034710b57010a5a3471269:-940269695</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_96017c7a83034710ce79b9c6feaad33f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default admin role</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_2056461_projec_0.admin</name><scoped_admin>false</scoped_admin><suffix>admin</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-04 08:58:11</sys_created_on><sys_id>96017c7a83034710ce79b9c6feaad33f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2056461_projec_0.admin</sys_name><sys_package display_value="Project Application" source="x_2056461_projec_0">0e013c7a83034710ce79b9c6feaad348</sys_package><sys_policy/><sys_scope display_value="Project Application">0e013c7a83034710ce79b9c6feaad348</sys_scope><sys_update_name>sys_user_role_96017c7a83034710ce79b9c6feaad33f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-04 08:58:11</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-694001613</payload_hash>
+<remote_update_set display_value="Default">9d2348ab838f8b10ce79b9c6feaad35a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-06 13:33:09</sys_created_on>
+<sys_id>ed23ccab838f8b10ce79b9c6feaad37b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a06ba3cc160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-06 13:33:09</sys_updated_on>
+<table/>
+<target_name>x_2056461_projec_0.admin</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>5e017c7af3034710c8c6f6cb80fb275d</update_guid>
+<update_guid_history>5e017c7af3034710c8c6f6cb80fb275d:-694001613</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
