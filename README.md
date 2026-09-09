@@ -68,7 +68,7 @@ Support for other IT equipment
 
 📌 Project Details
 Project: ServiceNow-Based Employee Laptop Request Application
-Team ID: SWUID2026190365
+ID: SWUID2026190365
 Platform: ServiceNow
 
 ⭐ Summary
