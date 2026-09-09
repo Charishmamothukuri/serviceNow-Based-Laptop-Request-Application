@@ -1,3 +1,5 @@
+ServiceNow-Based-Laptop-Request-Application
+
 📌 About the Project
 
 The ServiceNow-Based Employee Laptop Request Application is a ServiceNow application that makes the employee laptop request process simple and automated.
@@ -20,31 +22,6 @@ Duplicate Prevention – Prevents multiple requests from the same employee withi
 Status Tracking – Tracks Pending, Approval, Approved and Rejected requests.
 Email Notifications – Notifies employees about approval or rejection.
 Role-Based Access – Provides different access for employees and IT managers.
-
-🔄 How It Works
-Employee
-   ↓
-Employee Center
-   ↓
-Laptop Request Form
-   ↓
-Duplicate & Validation Check
-   ↓
-Manager Approval
-   ↓
- ┌───────────┐
- │           │
-Approved   Rejected
- │           │
- ↓           ↓
-Status     Status
-Approved   Rejected
- │           │
- └─────┬─────┘
-       ↓
-Email Notification
-       ↓
-Employee
 
 🛠️ Technologies Used
 ServiceNow
